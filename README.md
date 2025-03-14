@@ -1,0 +1,2 @@
+# res
+public resource files
